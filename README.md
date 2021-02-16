@@ -1,1 +1,1 @@
-# rocket-league-scheduler-capstone-client
+# Playdate helper client
